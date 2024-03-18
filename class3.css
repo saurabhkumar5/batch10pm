@@ -1,0 +1,46 @@
+/* *{
+    background-color: yellowgreen;
+    color: red;
+    text-align: center;
+}
+
+
+
+h1{
+    background-color: #5f9;
+}
+.dosa{
+    color: blueviolet;
+    background-color: blue;
+}
+.momo{
+    background-color: chocolate;
+} */
+
+/* #demo{
+    background-color: blueviolet;
+} */
+h1{
+    /* background-color: red !important; */
+}
+
+
+div h1{
+    background-color: red;
+}
+div h2{
+    background-color: aquamarine;
+}
+
+div{
+    background-color: aqua;
+}
+
+
+
+ div .momo{
+    background-color: blue ;
+}
+
+
+
